@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (CJVG_CGI20192.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  C:\Users\jonat\source\repos\Proy_CGI20192\CJVG_CGI20192\include\glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+C:\Users\jonat\source\repos\Proy_CGI20192\CJVG_CGI20192\main.cpp(114): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jonat\source\repos\Proy_CGI20192\CJVG_CGI20192\main.cpp(301): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\jonat\source\repos\Proy_CGI20192\CJVG_CGI20192\main.cpp(360): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\jonat\source\repos\Proy_CGI20192\CJVG_CGI20192\main.cpp(1049): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jonat\source\repos\Proy_CGI20192\CJVG_CGI20192\main.cpp(1078): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jonat\source\repos\Proy_CGI20192\CJVG_CGI20192\main.cpp(1486): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jonat\source\repos\Proy_CGI20192\CJVG_CGI20192\main.cpp(1489): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jonat\source\repos\Proy_CGI20192\CJVG_CGI20192\main.cpp(1917): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jonat\source\repos\Proy_CGI20192\CJVG_CGI20192\main.cpp(2066): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jonat\source\repos\Proy_CGI20192\CJVG_CGI20192\main.cpp(2072): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jonat\source\repos\Proy_CGI20192\CJVG_CGI20192\main.cpp(250): warning C4715: 'val': no todas las rutas de acceso de control devuelven un valor
+  CJVG_CGI20192.vcxproj -> C:\Users\jonat\source\repos\Proy_CGI20192\Debug\Proy_CGI20192.exe
